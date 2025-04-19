@@ -86,7 +86,7 @@ This code is intended to demonstrate how kernel rootkits can operate in controll
 Linus Torvalds (just kidding 😉 — code adapted for demonstration purposes)
 
 ##Refs
-https://github.com/carloslack/KoviD
-https://github.com/MatheuZSecurity/Rootkit
-https://xcellerator.github.io/posts/linux_rootkits_01/
+- https://github.com/carloslack/KoviD
+- https://github.com/MatheuZSecurity/Rootkit
+- https://xcellerator.github.io/posts/linux_rootkits_01/
 
